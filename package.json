@@ -1,0 +1,10 @@
+{
+  "name": "King-Games",
+  "version": "0.0.0",
+  "description": "React Example",
+  "author": "Joan Miralles",
+  "dependencies": {
+    "express": "~4.9.7",
+    "mongoose": "4.0.3"
+  }
+}
